@@ -1,5 +1,5 @@
 # Evaluation Form
-# Angular(frontend) / MVC + Entity Framework(backend) / MS SQL Server(database)
+# Angular(frontend) / MVC + Entity Framework + REST API(backend) / MS SQL Server(database)
 
 # Edit Record, display info in inputs
 ![editrecord](https://user-images.githubusercontent.com/76429727/115951364-f8f91580-a512-11eb-9c06-5bb77b803e3e.png)
